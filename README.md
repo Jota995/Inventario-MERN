@@ -1,2 +1,2 @@
-# Inventory-MERN
+# Inventario-MERN
 Sistema basico de inventario de productos.
